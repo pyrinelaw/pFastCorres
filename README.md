@@ -27,8 +27,9 @@ touch.destory();
 ```
 
 ### github
-[完整代码下载: https://github.com/pyrinelaw/pFastCorres]
-[示例: https://github.com/pyrinelaw/pFastCorres]
+[完整代码下载: https://github.com/pyrinelaw/pFastCorres](https://github.com/pyrinelaw/pFastCorres) 
+
+[示例: https://github.com/pyrinelaw/pFastCorres](https://github.com/pyrinelaw/pFastCorres) 
 
 ###其他
 如果只是单纯的需要解决延迟点击问题，网上已有成型的插件供使用
