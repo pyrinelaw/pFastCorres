@@ -28,7 +28,6 @@ touch.destory();
 
 ### github
 [完整代码下载: https://github.com/pyrinelaw/pFastCorres](https://github.com/pyrinelaw/pFastCorres) 
-
 [示例: https://github.com/pyrinelaw/pFastCorres](https://github.com/pyrinelaw/pFastCorres) 
 
 ###其他
