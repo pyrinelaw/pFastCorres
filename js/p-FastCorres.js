@@ -2,6 +2,7 @@
  * @authors 	Petrus.Law (petrus.law@outlook.com)
  * @date    	2015-08-24 10:18:03
  * @version 	0.0.1
+ * @github      https://github.com/pyrinelaw/
  * @desc     	解决Wap端网页点击延迟与hover生效问题
  */
 
