@@ -1,7 +1,5 @@
 # pFastCorres
 
-标签（空格分隔）： pFastCorres
-
 ### 应用场景
 解决Wap端网页点击延迟与hover生效问题
 
@@ -27,17 +25,18 @@ touch.destory();
 ```
 
 ### github
-[完整代码下载: https://github.com/pyrinelaw/pFastCorres](https://github.com/pyrinelaw/pFastCorres) 
+[完整代码下载: https://github.com/pyrinelaw/pFastCorres](https://github.com/pyrinelaw/pFastCorres) <Br>
 [示例: https://github.com/pyrinelaw/pFastCorres](https://github.com/pyrinelaw/pFastCorres) 
 
 ###其他
-如果只是单纯的需要解决延迟点击问题，网上已有成型的插件供使用
-[fastclick](https://github.com/ftlabs/fastclick) 其原理是使用事件委托在document节点添加touch检测。不过代码库稍稍有点臃肿。
+如果只是单纯的需要解决延迟点击问题，网上已有成型的插件供使用 <Br>
+[fastclick](https://github.com/ftlabs/fastclick)  <Br>其原理是使用事件委托在document节点添加touch检测。不过代码库稍稍有点臃肿。
 
 如果使用了zepto.js，可以使用$.tap 方法进行click处理,缺点是存在点透问题，改写touch冒泡事件即可。
 
 ------
-感谢阅读此份文稿
-如需引用，请注明出处
-更多插件请访问： https://github.com/pyrinelaw
+感谢阅读此份文稿 <Br>
+如需引用，请注明出处 <Br>
+关于作者请访问： https://github.com/pyrinelaw <Br>
+
 作者：Petrus.Law
